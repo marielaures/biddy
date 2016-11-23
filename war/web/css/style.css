@@ -1,0 +1,13 @@
+
+/* 
+    Created on : Nov 2, 2016, 1:46:02 PM
+    Author     : ml
+*/
+
+ul#main-menu li, #search, #main-menu, #cat {
+    display: inline ;
+}
+
+#dropdowncat, #dropdowncat option{
+    width: 170px;
+}

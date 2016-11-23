@@ -1,0 +1,7 @@
+.DS_Store
+MANIFEST.MF
+*.xml
+
+**/build/*
+**/nbproject/*
+**/dist/*
